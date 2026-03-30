@@ -1,0 +1,2 @@
+# VideoPlayer_Qt
+在IMX6ULL上写一个Qt视频播放器,系统用的是正点原子官方出厂系统

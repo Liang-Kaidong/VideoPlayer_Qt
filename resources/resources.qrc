@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/fullscreen.png</file>
+        <file>icons/fullscreenExit.png</file>
+        <file>icons/openVideoFile.png</file>
+        <file>icons/nextVideo.png</file>
+        <file>icons/pauseVideo.png</file>
+        <file>icons/playVideo.png</file>
+        <file>icons/previousVideo.png</file>
+    </qresource>
+    <qresource prefix="/background">
+        <file>background/firstStart.png</file>
+    </qresource>
+</RCC>
